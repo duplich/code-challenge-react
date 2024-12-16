@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import Papa from 'papaparse';
 import { products } from './utils/products';
 
 interface Product {
